@@ -1,0 +1,33 @@
+body{
+background: rgb(92, 17, 92);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 12px;
+
+}
+
+.box1 {
+
+    margin: auto;
+    width: 300px;
+    height: 400px;
+    padding: 20px 10px;
+    border: rgb(17, 165, 233) 2px solid;
+    border-radius: 20px;
+    display: inline-block;
+    background: radial-gradient(rgb(8, 240, 51), rgb(241, 199, 12));
+    text-align: center;
+
+}
+.Imagen{
+border-radius: 50%;
+width: 100px;
+border-color: #f6f;
+}
+
+.text{
+color:rgb(169, 20, 89);
+background: rgb(255, 255, 255);
+margin: 10px;
+text-align: justify;
+padding: 2px;
+}
